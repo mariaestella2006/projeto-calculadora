@@ -1,0 +1,19 @@
+/* PERSONALIZAÇÃO DOS ELEMENTOS */
+setStyleSheet{
+    background-color: blue;
+    color:white;
+    font: 14pt "MS Shell Dlg 2";
+    /* 'qprotperty-alignment': AlignCenter; */
+}
+
+/* PERSONALIZÇÃO DO BOTÃO */
+QPushButton{
+    background-color: black;
+    color:white;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+    border-radius: 30px;
+    font-size: 20px
+}
+
